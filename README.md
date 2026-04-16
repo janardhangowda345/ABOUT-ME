@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janardhan G</h1>
+<h1 align="center">Hi 👋, I'm Janardhan BE</h1>
 <h3 align="center">Data Science Intern | Aspiring Data Scientist & Analyst | B.Tech CSE @ VTU</h3>
 
 <p align="center">
