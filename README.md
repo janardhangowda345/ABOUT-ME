@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hi there! I'm Janardhan Gowda</h1>
+  <h1>Hi there! I'm Janardhan B E</h1>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/0/1735300309639" width="700"/>
+  <img src="[https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/0/1735300309639](https://i.pinimg.com/736x/4a/fc/98/4afc984a20be88bf3210a18beed8a38e.jpg)" width="700"/>
 </div>
 
 ---
